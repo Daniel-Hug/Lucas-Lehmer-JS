@@ -1,7 +1,5 @@
 var Big = require('./big.js/big.js');
 
-// Don't let JS Bin disable any 'infinite' loops: // noprotect
-
 // These functions determine if the mersenne number 2^p ? 1 is prime.
 // Given an integer p they will return true or false.
 // List of Mersenne primes:
